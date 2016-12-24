@@ -25,4 +25,7 @@ properties:
   timeout:
     type: string
     required: false
+  useragent:
+    type: string
+    required: false
   
